@@ -1,4 +1,4 @@
-# Hidrata App 💧
+# Hydration-Tracker💧
 
 A modern, multilingual web application to help you stay hydrated and track your daily water intake. Built with React, TypeScript, and Vite.
 
