@@ -1,0 +1,122 @@
+{
+    "actions": {
+        "add": "추가",
+        "back": "뒤로",
+        "close": "닫기",
+        "gotIt": "알겠습니다",
+        "next": "다음",
+        "save": "저장"
+    },
+    "addWater": {
+        "customContainer": "사용자 정의 용기",
+        "nameInputLabel": "이름 (선택사항)",
+        "placeholders": [
+            "엄마가 준 머그잔",
+            "헬로키티 유리잔",
+            "보타포고 병",
+            "치즈 스프레드 유리잔",
+            "물을 차갑게 유지하는 알루미늄 유리잔",
+            "성배"
+        ]
+    },
+    "appName": "hydration-tracker",
+    "generic": {
+        "age": "나이",
+        "bottle": "병",
+        "congratulations": "축하합니다! 일일 목표를 달성했습니다!",
+        "containers": "용기",
+        "coords": "좌표",
+        "dailyWaterIntake": "일일 수분 섭취량",
+        "drank": "{} 마셨습니다",
+        "drankFrom": "{}에서 마셨습니다",
+        "glass": "유리잔",
+        "history": "기록",
+        "hourAgo": "{} 시간 전",
+        "hoursAgo": "{} 시간 전",
+        "justNow": "방금",
+        "language": "언어",
+        "location": "위치",
+        "minutes": "분",
+        "minuteAgo": "{} 분 전",
+        "minutesAgo": "{} 분 전",
+        "noEntryMessage": "오늘 기록이 없습니다... 물 한 잔 마시는 것부터 시작해보시겠어요?",
+        "notifications": "알림",
+        "notificationsDenied": "브라우저 알림이 비활성화되어 있습니다! 알림을 받으려면 활성화해주세요.",
+        "remainingMessage": "화이팅! 아직 {} 남았습니다",
+        "remindMeIn": "{} 후에 알림",
+        "settings": "설정",
+        "units": "단위",
+        "volume": "부피",
+        "weather": "날씨",
+        "weight": "체중",
+        "yearsOld": "세"
+    },
+    "language": "한국어",
+    "settings": {
+        "description": "앱을 구성하고 원하는 방식으로 사용자 정의할 수 있는 모든 사용 가능한 옵션을 확인하세요.",
+        "enableNotifications": "알림 활성화",
+        "enableWeatherDetection": "날씨 감지 활성화",
+        "notificationInterval": "알림 간격 (분)"
+    },
+    "notification": {
+        "title": "물 마시기!",
+        "message": "물을 마실 시간입니다! 💧"
+    },
+    "stages": {
+        "stage1": {
+            "p1": "{} 사용까지 한 걸음 남았습니다!",
+            "p2": "시작하기 전에 매일 마셔야 할 물의 양을 계산하고 경험을 더 좋게 만들기 위해 몇 가지를 설정해야 합니다!",
+            "p3": "아, 걱정하지 마세요! 모든 데이터는 기기에만 저장되며 언제든지 설정을 변경할 수 있습니다.",
+            "title": "환영합니다!"
+        },
+        "stage2": {
+            "p1": "먼저 사용하시려는 측정 단위는 무엇인가요?",
+            "title": "측정 단위"
+        },
+        "stage3": {
+            "p1": "매일 마셔야 할 물의 양을 계산하기 위해 나이와 체중을 알아야 합니다.",
+            "title": "나이와 체중"
+        },
+        "stage4": {
+            "checkbox": "네, 이 기능을 사용하고 싶습니다!",
+            "p1": "{}는 지역의 날씨 조건을 자동으로 감지하고 매일 마셔야 할 물의 양을 조정할 수 있습니다. 멋지죠?",
+            "p2": "이 기능을 사용하시겠습니까?",
+            "title": "너무 덥네요!"
+        },
+        "stage5": {
+            "checkbox": "네, 알림을 받고 싶습니다!",
+            "p1": "물 마시기를 알려주는 알림을 받으시겠습니까?",
+            "title": "알림"
+        }
+    },
+    "units": {
+        "celsius": "섭씨",
+        "fahrenheit": "화씨",
+        "flOz": "액량 온스",
+        "flOzP": "액량 온스",
+        "kg": "킬로그램",
+        "kgP": "킬로그램",
+        "lb": "파운드",
+        "lbP": "파운드",
+        "ml": "밀리리터",
+        "mlP": "밀리리터",
+        "st": "스톤",
+        "stP": "스톤"
+    },
+    "weather": {
+        "apparentTemperature": "체감 온도",
+        "favorableWeather": "유리한 날씨",
+        "labels": {
+            "COLD": "추움",
+            "HOT": "더움",
+            "MILD": "온화함",
+            "VERY_COLD": "매우 추움",
+            "VERY_HOT": "매우 더움",
+            "WARM": "따뜻함"
+        },
+        "relativeHumidity": "상대 습도",
+        "temperature": "온도",
+        "unfavorableWeather": "불리한 날씨",
+        "unfavorableWeatherTitle": "불리한 날씨 조건으로 인해 추가 양이 추가되었습니다. 안전하게 지내세요!"
+    }
+}

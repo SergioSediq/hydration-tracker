@@ -1,0 +1,122 @@
+{
+    "actions": {
+        "add": "Hinzufügen",
+        "back": "Zurück",
+        "close": "Schließen",
+        "gotIt": "Verstanden",
+        "next": "Weiter",
+        "save": "Speichern"
+    },
+    "addWater": {
+        "customContainer": "Benutzerdefinierter Behälter",
+        "nameInputLabel": "Name (optional)",
+        "placeholders": [
+            "Tasse, die mir meine Mutter gegeben hat",
+            "Hello Kitty Glas",
+            "Botafogo Flasche",
+            "Käseaufstrich Glas",
+            "Aluminiumglas, das Wasser kalt hält",
+            "Heiliger Gral"
+        ]
+    },
+    "appName": "hydration-tracker",
+    "generic": {
+        "age": "Alter",
+        "bottle": "Flasche",
+        "congratulations": "Glückwunsch! Sie haben Ihr Tagesziel erreicht!",
+        "containers": "Behälter",
+        "coords": "Koordinaten",
+        "dailyWaterIntake": "Tägliche Wasseraufnahme",
+        "drank": "hat {} getrunken",
+        "drankFrom": "hat aus {} getrunken",
+        "glass": "Glas",
+        "history": "Verlauf",
+        "hourAgo": "vor {} Stunde",
+        "hoursAgo": "vor {} Stunden",
+        "justNow": "gerade eben",
+        "language": "Sprache",
+        "location": "Standort",
+        "minutes": "Minuten",
+        "minuteAgo": "vor {} Minute",
+        "minutesAgo": "vor {} Minuten",
+        "noEntryMessage": "Es gibt keine Einträge für heute... Wie wäre es, wenn Sie mit einem Glas Wasser beginnen?",
+        "notifications": "Benachrichtigungen",
+        "notificationsDenied": "Browser-Benachrichtigungen sind deaktiviert! Bitte aktivieren Sie sie, um Erinnerungen zu erhalten.",
+        "remainingMessage": "Los geht's! Es fehlen noch {}",
+        "remindMeIn": "Erinnern Sie mich in",
+        "settings": "Einstellungen",
+        "units": "Einheiten",
+        "volume": "Volumen",
+        "weather": "Wetter",
+        "weight": "Gewicht",
+        "yearsOld": "Jahre alt"
+    },
+    "language": "Deutsch",
+    "settings": {
+        "description": "Sehen Sie alle verfügbaren Optionen, um die App zu konfigurieren und sie nach Ihren Wünschen anzupassen.",
+        "enableNotifications": "Benachrichtigungen aktivieren",
+        "enableWeatherDetection": "Wettererkennung aktivieren",
+        "notificationInterval": "Benachrichtigungsintervall (in Minuten)"
+    },
+    "notification": {
+        "title": "Wasser trinken!",
+        "message": "Es ist Zeit, Wasser zu trinken! 💧"
+    },
+    "stages": {
+        "stage1": {
+            "p1": "Sie sind nur einen Schritt davon entfernt, {} zu verwenden!",
+            "p2": "Bevor wir beginnen, müssen wir die Menge an Wasser berechnen, die Sie täglich trinken sollten, und einige Dinge einrichten, um Ihr Erlebnis noch besser zu machen!",
+            "p3": "Oh, und keine Sorge! Alle Daten werden nur auf Ihrem Gerät gespeichert, und Sie können die Einstellungen jederzeit ändern.",
+            "title": "Willkommen!"
+        },
+        "stage2": {
+            "p1": "Zunächst, welche Maßeinheiten bevorzugen Sie?",
+            "title": "Maßeinheiten"
+        },
+        "stage3": {
+            "p1": "Um die Menge an Wasser zu berechnen, die Sie täglich trinken sollten, müssen wir Ihr Alter und Ihr Gewicht wissen.",
+            "title": "Alter und Gewicht"
+        },
+        "stage4": {
+            "checkbox": "Ja, ich möchte diese Funktion verwenden!",
+            "p1": "{} kann automatisch die Wetterbedingungen in Ihrer Region erkennen und die Menge an Wasser anpassen, die Sie täglich trinken sollten. Cool, oder?",
+            "p2": "Möchten Sie diese Funktion verwenden?",
+            "title": "Es ist so heiß!"
+        },
+        "stage5": {
+            "checkbox": "Ja, ich möchte Benachrichtigungen erhalten!",
+            "p1": "Möchten Sie Benachrichtigungen erhalten, die Sie daran erinnern, Wasser zu trinken?",
+            "title": "Benachrichtigungen"
+        }
+    },
+    "units": {
+        "celsius": "Celsius",
+        "fahrenheit": "Fahrenheit",
+        "flOz": "Flüssigunze",
+        "flOzP": "Flüssigunzen",
+        "kg": "Kilogramm",
+        "kgP": "Kilogramm",
+        "lb": "Pfund",
+        "lbP": "Pfund",
+        "ml": "Milliliter",
+        "mlP": "Milliliter",
+        "st": "Stone",
+        "stP": "Stones"
+    },
+    "weather": {
+        "apparentTemperature": "Gefühlte Temperatur",
+        "favorableWeather": "Günstiges Wetter",
+        "labels": {
+            "COLD": "Kalt",
+            "HOT": "Heiß",
+            "MILD": "Mild",
+            "VERY_COLD": "Sehr Kalt",
+            "VERY_HOT": "Sehr Heiß",
+            "WARM": "Warm"
+        },
+        "relativeHumidity": "Relative Luftfeuchtigkeit",
+        "temperature": "Temperatur",
+        "unfavorableWeather": "Ungünstiges Wetter",
+        "unfavorableWeatherTitle": "Aufgrund ungünstiger Wetterbedingungen wurde eine zusätzliche Menge hinzugefügt. Bleiben Sie sicher!"
+    }
+}

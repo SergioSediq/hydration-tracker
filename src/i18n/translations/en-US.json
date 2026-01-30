@@ -1,0 +1,122 @@
+{
+    "actions": {
+        "add": "Add",
+        "back": "Back",
+        "close": "Close",
+        "gotIt": "Got it",
+        "next": "Next",
+        "save": "Save"
+    },
+    "addWater": {
+        "customContainer": "Custom container",
+        "nameInputLabel": "Name (optional)",
+        "placeholders": [
+            "Mug my mom gave me",
+            "Hello Kitty glass",
+            "Botafogo bottle",
+            "Cheese spread glass",
+            "Aluminum glass that keeps water cold",
+            "Holy grail"
+        ]
+    },
+    "appName": "hydration-tracker",
+    "generic": {
+        "age": "Age",
+        "bottle": "Bottle",
+        "congratulations": "Congratulations! You've reached your daily goal!",
+        "containers": "Containers",
+        "coords": "Coordinates",
+        "dailyWaterIntake": "Daily Water Intake",
+        "drank": "drank {}",
+        "drankFrom": "drank from {}",
+        "glass": "Glass",
+        "history": "History",
+        "hourAgo": "{} hour ago",
+        "hoursAgo": "{} hours ago",
+        "justNow": "just now",
+        "language": "Language",
+        "location": "Location",
+        "minutes": "minutes",
+        "minuteAgo": "{} minute ago",
+        "minutesAgo": "{} minutes ago",
+        "noEntryMessage": "There are no records for today... How about starting by drinking a glass of water?",
+        "notifications": "Notifications",
+        "notificationsDenied": "Browser notifications are disabled! Please enable them to receive reminders.",
+        "remainingMessage": "Let's go! There are still {} left",
+        "remindMeIn": "Remind me in",
+        "settings": "Settings",
+        "units": "Units",
+        "volume": "Volume",
+        "weather": "Weather",
+        "weight": "Weight",
+        "yearsOld": "years old"
+    },
+    "language": "English",
+    "settings": {
+        "description": "See all available options to configure the app and make it your way.",
+        "enableNotifications": "Enable notifications",
+        "enableWeatherDetection": "Enable weather detection",
+        "notificationInterval": "Notification interval (in minutes)"
+    },
+    "notification": {
+        "title": "Drink water!",
+        "message": "It's time to drink water! 💧"
+    },
+    "stages": {
+        "stage1": {
+            "p1": "You're one step away from using {}!",
+            "p2": "Before we start, we need to calculate the amount of water you should drink daily and set up some things to make your experience even better!",
+            "p3": "Oh, and don't worry! All data will only be stored on your device, and you can change the settings at any time.",
+            "title": "Welcome!"
+        },
+        "stage2": {
+            "p1": "First, what are the measurement units you prefer to use?",
+            "title": "Measurement units"
+        },
+        "stage3": {
+            "p1": "In order to calculate the amount of water you should drink daily, we need to know your age and weight.",
+            "title": "Age and Weight"
+        },
+        "stage4": {
+            "checkbox": "Yes, I want to use this feature!",
+            "p1": "{} can automatically detect the weather conditions in your region and adjust the amount of water you should drink daily. Cool, right?",
+            "p2": "Do you want to use this feature?",
+            "title": "It's so hot!"
+        },
+        "stage5": {
+            "checkbox": "Yes, I want to receive notifications!",
+            "p1": "Do you want to receive notifications to remind you to drink water?",
+            "title": "Notifications"
+        }
+    },
+    "units": {
+        "celsius": "Celsius",
+        "fahrenheit": "Fahrenheit",
+        "flOz": "Fluid Ounce",
+        "flOzP": "Fluid Ounces",
+        "kg": "Kilogram",
+        "kgP": "Kilograms",
+        "lb": "Pound",
+        "lbP": "Pounds",
+        "ml": "Mililiter",
+        "mlP": "Mililiters",
+        "st": "Stone",
+        "stP": "Stones"
+    },
+    "weather": {
+        "apparentTemperature": "Apparent temperature",
+        "favorableWeather": "Favorable weather",
+        "labels": {
+            "COLD": "Cold",
+            "HOT": "Hot",
+            "MILD": "Mild",
+            "VERY_COLD": "Very Cold",
+            "VERY_HOT": "Very Hot",
+            "WARM": "Warm"
+        },
+        "relativeHumidity": "Relative humidity",
+        "temperature": "Temperature",
+        "unfavorableWeather": "Unfavorable weather",
+        "unfavorableWeatherTitle": "An extra amount has been added due to unfavorable weather conditions. Stay safe!"
+    }
+}

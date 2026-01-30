@@ -1,0 +1,122 @@
+{
+    "actions": {
+        "add": "追加",
+        "back": "戻る",
+        "close": "閉じる",
+        "gotIt": "了解",
+        "next": "次へ",
+        "save": "保存"
+    },
+    "addWater": {
+        "customContainer": "カスタム容器",
+        "nameInputLabel": "名前（任意）",
+        "placeholders": [
+            "母がくれたマグカップ",
+            "ハローキティのグラス",
+            "ボタフォゴのボトル",
+            "チーズスプレッドのグラス",
+            "水を冷たく保つアルミグラス",
+            "聖杯"
+        ]
+    },
+    "appName": "hydration-tracker",
+    "generic": {
+        "age": "年齢",
+        "bottle": "ボトル",
+        "congratulations": "おめでとうございます！毎日の目標を達成しました！",
+        "containers": "容器",
+        "coords": "座標",
+        "dailyWaterIntake": "1日の水分摂取量",
+        "drank": "{} を飲みました",
+        "drankFrom": "{} から飲みました",
+        "glass": "グラス",
+        "history": "履歴",
+        "hourAgo": "{} 時間前",
+        "hoursAgo": "{} 時間前",
+        "justNow": "たった今",
+        "language": "言語",
+        "location": "場所",
+        "minutes": "分",
+        "minuteAgo": "{} 分前",
+        "minutesAgo": "{} 分前",
+        "noEntryMessage": "今日の記録がありません...グラス一杯の水を飲むことから始めませんか？",
+        "notifications": "通知",
+        "notificationsDenied": "ブラウザの通知が無効になっています！リマインダーを受信するには、有効にしてください。",
+        "remainingMessage": "頑張りましょう！あと {} 残っています",
+        "remindMeIn": "{} 後にリマインダー",
+        "settings": "設定",
+        "units": "単位",
+        "volume": "容量",
+        "weather": "天気",
+        "weight": "体重",
+        "yearsOld": "歳"
+    },
+    "language": "日本語",
+    "settings": {
+        "description": "アプリを設定し、お好みに合わせてカスタマイズするためのすべての利用可能なオプションを表示します。",
+        "enableNotifications": "通知を有効にする",
+        "enableWeatherDetection": "天気検出を有効にする",
+        "notificationInterval": "通知間隔（分）"
+    },
+    "notification": {
+        "title": "水を飲みましょう！",
+        "message": "水を飲む時間です！💧"
+    },
+    "stages": {
+        "stage1": {
+            "p1": "{} を使用するまであと一歩です！",
+            "p2": "始める前に、毎日飲むべき水の量を計算し、体験をさらに良くするためにいくつかの設定を行う必要があります！",
+            "p3": "ああ、心配しないでください！すべてのデータはデバイスにのみ保存され、設定はいつでも変更できます。",
+            "title": "ようこそ！"
+        },
+        "stage2": {
+            "p1": "まず、使用したい測定単位はどれですか？",
+            "title": "測定単位"
+        },
+        "stage3": {
+            "p1": "毎日飲むべき水の量を計算するために、年齢と体重を知る必要があります。",
+            "title": "年齢と体重"
+        },
+        "stage4": {
+            "checkbox": "はい、この機能を使いたいです！",
+            "p1": "{} は、お住まいの地域の天候を自動的に検出し、毎日飲むべき水の量を調整できます。素晴らしいですね？",
+            "p2": "この機能を使用しますか？",
+            "title": "とても暑いですね！"
+        },
+        "stage5": {
+            "checkbox": "はい、通知を受け取りたいです！",
+            "p1": "水を飲むことを思い出させる通知を受け取りますか？",
+            "title": "通知"
+        }
+    },
+    "units": {
+        "celsius": "摂氏",
+        "fahrenheit": "華氏",
+        "flOz": "液量オンス",
+        "flOzP": "液量オンス",
+        "kg": "キログラム",
+        "kgP": "キログラム",
+        "lb": "ポンド",
+        "lbP": "ポンド",
+        "ml": "ミリリットル",
+        "mlP": "ミリリットル",
+        "st": "ストーン",
+        "stP": "ストーン"
+    },
+    "weather": {
+        "apparentTemperature": "体感温度",
+        "favorableWeather": "好天候",
+        "labels": {
+            "COLD": "寒い",
+            "HOT": "暑い",
+            "MILD": "穏やか",
+            "VERY_COLD": "とても寒い",
+            "VERY_HOT": "とても暑い",
+            "WARM": "暖かい"
+        },
+        "relativeHumidity": "相対湿度",
+        "temperature": "気温",
+        "unfavorableWeather": "悪天候",
+        "unfavorableWeatherTitle": "悪天候のため、追加の量が加えられました。安全に過ごしてください！"
+    }
+}

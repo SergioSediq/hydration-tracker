@@ -1,0 +1,122 @@
+{
+    "actions": {
+        "add": "添加",
+        "back": "返回",
+        "close": "关闭",
+        "gotIt": "知道了",
+        "next": "下一步",
+        "save": "保存"
+    },
+    "addWater": {
+        "customContainer": "自定义容器",
+        "nameInputLabel": "名称（可选）",
+        "placeholders": [
+            "妈妈给我的杯子",
+            "Hello Kitty 玻璃杯",
+            "Botafogo 瓶子",
+            "奶酪玻璃杯",
+            "保持水冷的铝制玻璃杯",
+            "圣杯"
+        ]
+    },
+    "appName": "hydration-tracker",
+    "generic": {
+        "age": "年龄",
+        "bottle": "瓶子",
+        "congratulations": "恭喜！您已达到每日目标！",
+        "containers": "容器",
+        "coords": "坐标",
+        "dailyWaterIntake": "每日饮水量",
+        "drank": "喝了 {}",
+        "drankFrom": "从 {} 喝了",
+        "glass": "玻璃杯",
+        "history": "历史记录",
+        "hourAgo": "{} 小时前",
+        "hoursAgo": "{} 小时前",
+        "justNow": "刚刚",
+        "language": "语言",
+        "location": "位置",
+        "minutes": "分钟",
+        "minuteAgo": "{} 分钟前",
+        "minutesAgo": "{} 分钟前",
+        "noEntryMessage": "今天没有记录...要不要先喝一杯水？",
+        "notifications": "通知",
+        "notificationsDenied": "浏览器通知已禁用！请启用它们以接收提醒。",
+        "remainingMessage": "加油！还剩 {}",
+        "remindMeIn": "在 {} 提醒我",
+        "settings": "设置",
+        "units": "单位",
+        "volume": "体积",
+        "weather": "天气",
+        "weight": "体重",
+        "yearsOld": "岁"
+    },
+    "language": "中文（简体）",
+    "settings": {
+        "description": "查看所有可用选项以配置应用程序并使其符合您的方式。",
+        "enableNotifications": "启用通知",
+        "enableWeatherDetection": "启用天气检测",
+        "notificationInterval": "通知间隔（分钟）"
+    },
+    "notification": {
+        "title": "喝水！",
+        "message": "该喝水了！💧"
+    },
+    "stages": {
+        "stage1": {
+            "p1": "您距离使用 {} 只有一步之遥！",
+            "p2": "在开始之前，我们需要计算您每天应该喝的水量，并设置一些东西以使您的体验更好！",
+            "p3": "哦，别担心！所有数据只会存储在您的设备上，您可以随时更改设置。",
+            "title": "欢迎！"
+        },
+        "stage2": {
+            "p1": "首先，您喜欢使用哪些测量单位？",
+            "title": "测量单位"
+        },
+        "stage3": {
+            "p1": "为了计算您每天应该喝的水量，我们需要知道您的年龄和体重。",
+            "title": "年龄和体重"
+        },
+        "stage4": {
+            "checkbox": "是的，我想使用此功能！",
+            "p1": "{} 可以自动检测您所在地区的天气状况，并调整您每天应该喝的水量。很酷，对吧？",
+            "p2": "您想使用此功能吗？",
+            "title": "太热了！"
+        },
+        "stage5": {
+            "checkbox": "是的，我想接收通知！",
+            "p1": "您想接收通知来提醒您喝水吗？",
+            "title": "通知"
+        }
+    },
+    "units": {
+        "celsius": "摄氏度",
+        "fahrenheit": "华氏度",
+        "flOz": "液量盎司",
+        "flOzP": "液量盎司",
+        "kg": "千克",
+        "kgP": "千克",
+        "lb": "磅",
+        "lbP": "磅",
+        "ml": "毫升",
+        "mlP": "毫升",
+        "st": "英石",
+        "stP": "英石"
+    },
+    "weather": {
+        "apparentTemperature": "体感温度",
+        "favorableWeather": "有利天气",
+        "labels": {
+            "COLD": "冷",
+            "HOT": "热",
+            "MILD": "温和",
+            "VERY_COLD": "很冷",
+            "VERY_HOT": "很热",
+            "WARM": "温暖"
+        },
+        "relativeHumidity": "相对湿度",
+        "temperature": "温度",
+        "unfavorableWeather": "不利天气",
+        "unfavorableWeatherTitle": "由于不利的天气条件，已添加额外数量。注意安全！"
+    }
+}

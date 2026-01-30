@@ -1,0 +1,122 @@
+{
+    "actions": {
+        "add": "Añadir",
+        "back": "Volver",
+        "close": "Cerrar",
+        "gotIt": "Entendido",
+        "next": "Siguiente",
+        "save": "Guardar"
+    },
+    "addWater": {
+        "customContainer": "Recipiente personalizado",
+        "nameInputLabel": "Nombre (opcional)",
+        "placeholders": [
+            "Taza que me dio mi mamá",
+            "Vaso de Hello Kitty",
+            "Botella del Botafogo",
+            "Vaso de queso crema",
+            "Vaso de aluminio que mantiene el agua fría",
+            "Santo grial"
+        ]
+    },
+    "appName": "hydration-tracker",
+    "generic": {
+        "age": "Edad",
+        "bottle": "Botella",
+        "congratulations": "¡Felicitaciones! ¡Has alcanzado tu meta diaria!",
+        "containers": "Recipientes",
+        "coords": "Coordenadas",
+        "dailyWaterIntake": "Consumo Diario de Agua",
+        "drank": "bebió {}",
+        "drankFrom": "bebió de {}",
+        "glass": "Vaso",
+        "history": "Historial",
+        "hourAgo": "hace {} hora",
+        "hoursAgo": "hace {} horas",
+        "justNow": "ahora mismo",
+        "language": "Idioma",
+        "location": "Ubicación",
+        "minutes": "minutos",
+        "minuteAgo": "hace {} minuto",
+        "minutesAgo": "hace {} minutos",
+        "noEntryMessage": "No hay registros para hoy... ¿Qué tal si empiezas bebiendo un vaso de agua?",
+        "notifications": "Notificaciones",
+        "notificationsDenied": "¡Las notificaciones del navegador están desactivadas! Por favor, actívalas para recibir recordatorios.",
+        "remainingMessage": "¡Vamos! Todavía faltan {}",
+        "remindMeIn": "Recuérdame en",
+        "settings": "Configuración",
+        "units": "Unidades",
+        "volume": "Volumen",
+        "weather": "Clima",
+        "weight": "Peso",
+        "yearsOld": "años"
+    },
+    "language": "Español",
+    "settings": {
+        "description": "Ver todas las opciones disponibles para configurar la aplicación y hacerla a tu manera.",
+        "enableNotifications": "Activar notificaciones",
+        "enableWeatherDetection": "Activar detección de clima",
+        "notificationInterval": "Intervalo de notificación (en minutos)"
+    },
+    "notification": {
+        "title": "¡Bebe agua!",
+        "message": "¡Es hora de beber agua! 💧"
+    },
+    "stages": {
+        "stage1": {
+            "p1": "¡Estás a un paso de usar {}!",
+            "p2": "Antes de comenzar, necesitamos calcular la cantidad de agua que debes beber diariamente y configurar algunas cosas para hacer tu experiencia aún mejor.",
+            "p3": "¡Ah, y no te preocupes! Todos los datos solo se almacenarán en tu dispositivo, y puedes cambiar la configuración en cualquier momento.",
+            "title": "¡Bienvenido!"
+        },
+        "stage2": {
+            "p1": "Primero, ¿cuáles son las unidades de medida que prefieres usar?",
+            "title": "Unidades de medida"
+        },
+        "stage3": {
+            "p1": "Para calcular la cantidad de agua que debes beber diariamente, necesitamos saber tu edad y peso.",
+            "title": "Edad y Peso"
+        },
+        "stage4": {
+            "checkbox": "¡Sí, quiero usar esta función!",
+            "p1": "{} puede detectar automáticamente las condiciones climáticas de tu región y ajustar la cantidad de agua que debes beber diariamente. ¿Genial, verdad?",
+            "p2": "¿Quieres usar esta función?",
+            "title": "¡Qué calor!"
+        },
+        "stage5": {
+            "checkbox": "¡Sí, quiero recibir notificaciones!",
+            "p1": "¿Quieres recibir notificaciones para recordarte que bebas agua?",
+            "title": "Notificaciones"
+        }
+    },
+    "units": {
+        "celsius": "Celsius",
+        "fahrenheit": "Fahrenheit",
+        "flOz": "Onza líquida",
+        "flOzP": "Onzas líquidas",
+        "kg": "Kilogramo",
+        "kgP": "Kilogramos",
+        "lb": "Libra",
+        "lbP": "Libras",
+        "ml": "Mililitro",
+        "mlP": "Mililitros",
+        "st": "Stone",
+        "stP": "Stones"
+    },
+    "weather": {
+        "apparentTemperature": "Sensación térmica",
+        "favorableWeather": "Clima favorable",
+        "labels": {
+            "COLD": "Frío",
+            "HOT": "Caliente",
+            "MILD": "Templado",
+            "VERY_COLD": "Muy Frío",
+            "VERY_HOT": "Muy Caliente",
+            "WARM": "Cálido"
+        },
+        "relativeHumidity": "Humedad relativa",
+        "temperature": "Temperatura",
+        "unfavorableWeather": "Clima desfavorable",
+        "unfavorableWeatherTitle": "Se ha agregado una cantidad adicional debido a condiciones climáticas desfavorables. ¡Cuídate!"
+    }
+}

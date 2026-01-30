@@ -1,0 +1,122 @@
+{
+    "actions": {
+        "add": "Ajouter",
+        "back": "Retour",
+        "close": "Fermer",
+        "gotIt": "Compris",
+        "next": "Suivant",
+        "save": "Enregistrer"
+    },
+    "addWater": {
+        "customContainer": "Récipient personnalisé",
+        "nameInputLabel": "Nom (optionnel)",
+        "placeholders": [
+            "Tasse que ma mère m'a donnée",
+            "Verre Hello Kitty",
+            "Bouteille Botafogo",
+            "Verre de fromage à tartiner",
+            "Verre en aluminium qui garde l'eau froide",
+            "Saint Graal"
+        ]
+    },
+    "appName": "hydration-tracker",
+    "generic": {
+        "age": "Âge",
+        "bottle": "Bouteille",
+        "congratulations": "Félicitations ! Vous avez atteint votre objectif quotidien !",
+        "containers": "Récipients",
+        "coords": "Coordonnées",
+        "dailyWaterIntake": "Apport Hydrique Quotidien",
+        "drank": "a bu {}",
+        "drankFrom": "a bu dans {}",
+        "glass": "Verre",
+        "history": "Historique",
+        "hourAgo": "il y a {} heure",
+        "hoursAgo": "il y a {} heures",
+        "justNow": "à l'instant",
+        "language": "Langue",
+        "location": "Localisation",
+        "minutes": "minutes",
+        "minuteAgo": "il y a {} minute",
+        "minutesAgo": "il y a {} minutes",
+        "noEntryMessage": "Il n'y a pas d'enregistrements pour aujourd'hui... Et si vous commenciez par boire un verre d'eau ?",
+        "notifications": "Notifications",
+        "notificationsDenied": "Les notifications du navigateur sont désactivées ! Veuillez les activer pour recevoir des rappels.",
+        "remainingMessage": "Allez-y ! Il reste encore {}",
+        "remindMeIn": "Me rappeler dans",
+        "settings": "Paramètres",
+        "units": "Unités",
+        "volume": "Volume",
+        "weather": "Météo",
+        "weight": "Poids",
+        "yearsOld": "ans"
+    },
+    "language": "Français",
+    "settings": {
+        "description": "Voir toutes les options disponibles pour configurer l'application et la personnaliser à votre façon.",
+        "enableNotifications": "Activer les notifications",
+        "enableWeatherDetection": "Activer la détection météo",
+        "notificationInterval": "Intervalle de notification (en minutes)"
+    },
+    "notification": {
+        "title": "Buvez de l'eau !",
+        "message": "Il est temps de boire de l'eau ! 💧"
+    },
+    "stages": {
+        "stage1": {
+            "p1": "Vous êtes à un pas d'utiliser {} !",
+            "p2": "Avant de commencer, nous devons calculer la quantité d'eau que vous devriez boire quotidiennement et configurer quelques éléments pour rendre votre expérience encore meilleure !",
+            "p3": "Oh, et ne vous inquiétez pas ! Toutes les données seront uniquement stockées sur votre appareil, et vous pourrez modifier les paramètres à tout moment.",
+            "title": "Bienvenue !"
+        },
+        "stage2": {
+            "p1": "Tout d'abord, quelles sont les unités de mesure que vous préférez utiliser ?",
+            "title": "Unités de mesure"
+        },
+        "stage3": {
+            "p1": "Afin de calculer la quantité d'eau que vous devriez boire quotidiennement, nous devons connaître votre âge et votre poids.",
+            "title": "Âge et Poids"
+        },
+        "stage4": {
+            "checkbox": "Oui, je veux utiliser cette fonctionnalité !",
+            "p1": "{} peut détecter automatiquement les conditions météorologiques de votre région et ajuster la quantité d'eau que vous devriez boire quotidiennement. Cool, non ?",
+            "p2": "Voulez-vous utiliser cette fonctionnalité ?",
+            "title": "Il fait si chaud !"
+        },
+        "stage5": {
+            "checkbox": "Oui, je veux recevoir des notifications !",
+            "p1": "Voulez-vous recevoir des notifications pour vous rappeler de boire de l'eau ?",
+            "title": "Notifications"
+        }
+    },
+    "units": {
+        "celsius": "Celsius",
+        "fahrenheit": "Fahrenheit",
+        "flOz": "Once liquide",
+        "flOzP": "Onces liquides",
+        "kg": "Kilogramme",
+        "kgP": "Kilogrammes",
+        "lb": "Livre",
+        "lbP": "Livres",
+        "ml": "Millilitre",
+        "mlP": "Millilitres",
+        "st": "Stone",
+        "stP": "Stones"
+    },
+    "weather": {
+        "apparentTemperature": "Température ressentie",
+        "favorableWeather": "Météo favorable",
+        "labels": {
+            "COLD": "Froid",
+            "HOT": "Chaud",
+            "MILD": "Doux",
+            "VERY_COLD": "Très Froid",
+            "VERY_HOT": "Très Chaud",
+            "WARM": "Chaud"
+        },
+        "relativeHumidity": "Humidité relative",
+        "temperature": "Température",
+        "unfavorableWeather": "Météo défavorable",
+        "unfavorableWeatherTitle": "Une quantité supplémentaire a été ajoutée en raison de conditions météorologiques défavorables. Restez en sécurité !"
+    }
+}
